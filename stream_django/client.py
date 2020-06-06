@@ -1,6 +1,6 @@
 from stream_django import conf
 import os
-import stream
+import stream_python
 from stream_django.conf import DJANGO_MAJOR_VERSION
 from django.core.exceptions import ImproperlyConfigured
 
